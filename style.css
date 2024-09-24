@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f8ff;
+}
+
+.card {
+    border: 2px solid #ff69b4;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.inside {
+    margin-top: 20px;
+}
